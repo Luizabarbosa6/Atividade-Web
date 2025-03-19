@@ -38,6 +38,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     });
 
-    // Inicializa o primeiro item como ativo
+    
     updateActiveItem(currentIndex);
 });
