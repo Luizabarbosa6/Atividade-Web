@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const prevButton = document.getElementById('prev');
     const nextButton = document.getElementById('next');
 
+
     let currentIndex = 0;
 
     function updateActiveItem(index) {
